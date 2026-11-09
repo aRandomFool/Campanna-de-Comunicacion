@@ -1,0 +1,155 @@
+================================================================================
+PLANTILLAS DE PUBLICACIÓN - CAMPAÑA MERCADO AUTOMOTRIZ LA HABANA
+================================================================================
+
+INSTRUCCIONES:
+- Usa UN link UTM distinto por grupo/canal (ver utm_links.csv)
+- Acorta el link con is.gd o tinyurl.com ANTES de publicar
+- Publica: TEXTO + 1 IMAGEN (campana-card.png) + LINK EN PRIMER COMENTARIO
+- Responde TODOS los comentarios en la primera hora
+- Pide permiso al admin ANTES de publicar en grupos nuevos
+
+================================================================================
+PLANTILLA A - GRUPOS COMPRAVENTA GENERAL (Facebook / Telegram)
+================================================================================
+
+TÍTULO: Datos reales del mercado de autos en La Habana (3.566 anuncios analizados)
+
+CUERPO:
+Hice un análisis de datos para mi proyecto de la UH y quiero compartirlo con el grupo. No vendo nada, es info pura.
+
+Qué encontré:
+• Brecha de 10.699 USD entre precios de Revolico (mediana 22.000) y comercializadoras (32.699)
+• 48,9 % de los anuncios no dicen el año → sin año no comparas
+• Hyundai lidera la oferta (872 anuncios), BMW la mediana más alta (46.000 USD), Lada la más baja (6.500)
+• Mantenimiento real: 200–3.000 USD/año (30 entrevistas a dueños)
+• Playa, Centro Habana y Plaza concentran 51 % de la oferta
+
+La web tiene calculadoras interactivas:
+✓ "¿Qué alcanza con mi presupuesto?" (slider)
+✓ Compara precios por marca y municipio
+✓ Checklist de 6 preguntas antes de comprar
+✓ Catálogo formal completo (83 modelos, 4 entidades)
+
+Link: [PEGAR_LINK_CORTO_CON_UTM_AQUI]
+
+Si estás comprando o vendiendo, te ahorra dolores de cabeza. Cualquier duda la respondo aquí.
+
+#MercadoAutomotriz #LaHabana #Revolico #AutosCuba #CienciaDeDatos #UH
+
+================================================================================
+PLANTILLA B - GRUPOS POR MARCA (Hyundai, Kia, Toyota, Nissan, Dongfeng, Lada, etc.)
+================================================================================
+
+TÍTULO: Precios reales de [MARCA] en La Habana — datos de 3.566 anuncios
+
+CUERPO:
+En mi análisis de la UH saqué los números de [MARCA]:
+• [XXX] anuncios en Revolico (precio mediano: [X.XXX] USD)
+• [Y] modelos en catálogo formal (precio mediano: [Y.YYY] USD)
+• Comparador interactivo: eliges marca + municipio y ves la mediana local vs. ciudad
+
+También ves el rango P25–P75 (no solo la mediana) y cuántos anuncios hay.
+
+Web completa: [PEGAR_LINK_CORTO_CON_UTM_AQUI]
+
+Dato extra: el 31 % de anuncios no declaran marca → mucho "fantasma" en la data.
+
+Si compras/vendes [MARCA], échale un ojo. Respondo dudas en comentarios.
+
+#MercadoAutomotriz #[MARCA] #LaHabana #Revolico #PreciosReales #UH
+
+================================================================================
+DATOS PARA RELLENAR PLANTILLA B (desde la web - Bloques 5 y 7):
+================================================================================
+
+Hyundai: 872 anuncios · Mediana informal 29.000 USD · 1 modelo formal (CIMEX) · Mediana formal N/A
+Kia: 220 anuncios · Mediana informal 24.000 USD · 0 modelos formales
+Toyota: 148 anuncios · Mediana informal 24.997 USD · 1 modelo formal (CIMEX) · Mediana formal 22.380 USD
+Nissan: 115 anuncios · Mediana informal 30.000 USD · 3 modelos formales (CIMEX) · Mediana formal 35.000 USD
+Dongfeng: 32 anuncios · Mediana informal 35.000 USD · 27 modelos formales (Dongfeng Cuba) · Mediana formal 32.383 USD
+Lada: 192 anuncios · Mediana informal 6.500 USD · 0 modelos formales
+BMW: 33 anuncios · Mediana informal 46.000 USD · 0 modelos formales
+Honda: 74 anuncios · Mediana informal 32.250 USD · 0 modelos formales
+Foton: 10 anuncios · Mediana informal 50.000 USD · 15 modelos formales (MCV) · Mediana formal 44.709 USD
+Mercedes-Benz: 5 anuncios · Mediana informal 25.000 USD · 5 modelos formales (MCV) · Mediana formal 72.722 USD
+MG: 8 anuncios · Mediana informal 24.000 USD · 8 modelos formales (BDC ONE) · Mediana formal 22.896 USD
+
+================================================================================
+PLANTILLA C - GRUPOS REPUESTOS / MECÁNICOS / MIPYMES (Prescriptores)
+================================================================================
+
+TÍTULO: Lo que cuesta mantener un carro en La Habana — 30 entrevistas reales
+
+CUERPO:
+Parte de mi proyecto UH: entrevisté a 30 dueños de carros (uso personal, trabajo, carga).
+
+Gastos de mantenimiento al año:
+• Combustible: 2–2,80 USD/L, consumos de 20 a 160 L/mes
+• Reparaciones: 200–3.000 USD/año (rango enorme según carro, uso, piezas)
+• Piezas: dificultad ALTA, fuentes: Mipymes, importadoras, Facebook, contactos exterior
+• Neumáticos 60–80 USD, baterías ~300 USD
+
+Web con datos y checklist: [PEGAR_LINK_CORTO_CON_UTM_AQUI]
+
+Útil para presupuestar clientes o negociar. No es muestra representativa, pero es la única data pública que hay.
+
+#MantenimientoAutos #RepuestosCuba #Mipymes #Mecanicos #LaHabana #UH
+
+================================================================================
+PLANTILLA D - GRUPOS DIÁSPORA (Compran para familia en Cuba)
+================================================================================
+
+TÍTULO: Cuánto cuesta un carro en La Habana hoy — datos, no rumores
+
+CUERPO:
+Si vas a mandar dinero para un carro o comprar desde fuera, esto te interesa.
+
+Analicé 3.566 anuncios de Revolico + 83 modelos de comercializadoras + 30 entrevistas.
+
+Claves:
+• Mediana informal: 22.000 USD | Mediana formal: 32.699 USD
+• 48,9 % de anuncios no dicen el año (riesgo alto)
+• Mantenimiento real: 200–3.000 USD/año
+• Checklist de 6 pasos antes de poner un centavo
+
+Web interactiva (funciona en móvil, sin login): [PEGAR_LINK_CORTO_CON_UTM_AQUI]
+
+Ahorra viajes fallidos y sobreprecios. Preguntas bienvenidas.
+
+#CubanosEnElExterior #CarrosCuba #LaHabana #EnvíosDinero #UH #DatosReales
+
+================================================================================
+MENSAJE PARA PEDIR PERMISO AL ADMIN (Privado)
+================================================================================
+
+Hola! Soy estudiante de la UH. Hice un análisis de datos del mercado de autos en La Habana (3.566 anuncios de Revolico, 83 modelos de comercializadoras, 30 entrevistas a dueños).
+
+¿Me permites compartir el link en el grupo? No vendo nada, es información gratuita y útil para quien compra/vende. Adjunto captura de lo que encontré.
+
+Gracias!
+
+================================================================================
+IMAGEN RECOMENDADA: campana-card.png
+================================================================================
+Contenido:
+- Título: "Mercado Automotriz La Habana — Datos reales"
+- 3 cifras grandes:
+  10.699 USD brecha | 48,9% sin año | 200–3.000 USD/año mantenimiento
+- QR chiquito con link corto (opcional)
+- Pie: "Proyecto UH — Gratis — Sin cookies"
+
+================================================================================
+HORARIOS PICO (Hora Cuba)
+================================================================================
+Facebook: 11:00–13:00  |  19:00–21:00
+Telegram: Cuando el canal tenga "día libre" o mayor actividad (revisa histórico)
+
+================================================================================
+SEGUIMIENTO EN GA4 (cada 24h)
+================================================================================
+1. Informes → Adquisición → Adquisición de tráfico
+2. Filtra: utm_source=facebook  /  utm_source=telegram
+3. Evento 'interaccion' por utm_content → qué grupo trajo gente que interactuó
+4. Tasa = usuarios con 'interaccion' / usuarios totales por canal
+5. Si un grupo trae 0 interacciones en 48h → no repitas ahí

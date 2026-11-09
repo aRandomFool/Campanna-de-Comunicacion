@@ -1,0 +1,97 @@
+================================================================================
+DATOS CLAVE PARA COPY-PASTE RÁPIDO
+================================================================================
+
+URL BASE: https://arandomfool.github.io/ICD-Mercado-Automotriz/
+
+LINKS UTM LISTOS (copia y acorta en is.gd):
+
+FACEBOOK:
+- Compraventa Autos Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=compraventa_autos_cuba
+- Venta de Carros en Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=venta_carros_cuba
+- Autos La Habana: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=autos_la_habana
+- Revolico Autos Oficial: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=revolico_autos_oficial
+- Clasificados Revolico Carros: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=clasificados_revolico_carros
+- Hyundai Cuba Club: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=hyundai_cuba_club
+- Kia Cuba Dueños: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=kia_cuba_duenos
+- Toyota Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=toyota_cuba
+- Nissan Cuba Dueños: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=nissan_cuba_duenos
+- Dongfeng Cuba Club: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=dongfeng_cuba_club
+- Lada Cuba Club: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=lada_cuba_club
+- Repuestos Autos La Habana: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=repuestos_autos_la_habana
+- Mecanicos Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=mecanicos_cuba
+- Taller Carros La Habana: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=taller_carros_la_habana
+- Mipymes Autos Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=mipymes_autos_cuba
+- Cubanos en Miami - Carros: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=cubanos_miami_carros
+- Cubanos en España Autos: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=cubanos_espana_autos
+- Envios Carros a Cuba: ?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=envios_carros_cuba
+
+TELEGRAM:
+- Autos Cuba Venta: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=autos_cuba_venta
+- Carros La Habana: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=carros_la_habana
+- Revolico Autos Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=revolico_autos_canal
+- Hyundai Cuba Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=hyundai_cuba_canal
+- Kia Cuba Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=kia_cuba_canal
+- Toyota Cuba Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=toyota_cuba_canal
+- Repuestos Cuba Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=repuestos_cuba_canal
+- Importadora Autos Cuba: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=importadora_autos_cuba
+- Mipymes Autos Cuba Canal: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=mipymes_autos_cuba_canal
+- Noticias Autos Cuba: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=noticias_autos_cuba
+- Mercado Automotriz Cuba: ?utm_source=telegram&utm_medium=canal&utm_campaign=autos_uh&utm_content=mercado_automotriz_cuba
+
+================================================================================
+DATOS POR MARCA (Para Plantilla B - rellena [XXX] y [X.XXX])
+================================================================================
+
+Marca          | Anuncios | Mediana Informal | Modelos Formales | Mediana Formal
+---------------|----------|------------------|------------------|---------------
+Hyundai        | 872      | 29.000 USD       | 1 (CIMEX)        | N/A
+Kia            | 220      | 24.000 USD       | 0                | N/A
+Toyota         | 148      | 24.997 USD       | 1 (CIMEX)        | 22.380 USD
+Nissan         | 115      | 30.000 USD       | 3 (CIMEX)        | 35.000 USD
+Dongfeng       | 32       | 35.000 USD       | 27 (Dongfeng)    | 32.383 USD
+Lada           | 192      | 6.500 USD        | 0                | N/A
+BMW            | 33       | 46.000 USD       | 0                | N/A
+Honda          | 74       | 32.250 USD       | 0                | N/A
+Foton          | 10       | 50.000 USD       | 15 (MCV)         | 44.709 USD
+Mercedes-Benz  | 5        | 25.000 USD       | 5 (MCV)          | 72.722 USD
+MG             | 8        | 24.000 USD       | 8 (BDC ONE)      | 22.896 USD
+
+================================================================================
+CIFRAS MAESTRAS (Para todas las plantillas)
+================================================================================
+- Total anuncios analizados: 3.566
+- Anuncios con precio válido: 2.703
+- Mediana informal (Revolico): 22.000 USD
+- Mediana formal (Comercializadoras): 32.699 USD
+- Brecha: 10.699 USD
+- % anuncios SIN año: 48,9 %
+- Modelos formales: 83
+- Entidades formales: 4 (BDC ONE, Dongfeng Cuba, MCV Comercial, CIMEX)
+- Marcas formales: 11
+- Entrevistas de mantenimiento: 30
+- Rango mantenimiento/año: 200 – 3.000 USD
+- Concentración top 3 municipios: 51,4 % (Playa, Centro Habana, Plaza)
+- Precio mediano por municipio (n≥30): La Lisa 13.000 – Arroyo Naranjo 28.000 USD
+
+================================================================================
+ACORTADORES RECOMENDADOS
+================================================================================
+- is.gd (más corto, sin cuenta)
+- tinyurl.com (permite alias personalizado)
+- bit.ly (requiere cuenta, más stats)
+
+Ejemplo en is.gd:
+1. Pega: https://arandomfool.github.io/ICD-Mercado-Automotriz/?utm_source=facebook&utm_medium=grupo&utm_campaign=autos_uh&utm_content=compraventa_autos_cuba
+2. Click "Shorten!"
+3. Copia el link corto (ej: https://is.gd/abc123)
+4. Úsalo en el post y anótalo en bitacora_campana.csv
+
+================================================================================
+CHECKLIST DIARIO
+================================================================================
+☐ Revisar GA4 Tiempo real al publicar
+☐ Responder TODOS los comentarios en 1h
+☐ Rellenar bitacora_campana.csv (usuarios_ga4, evento_interaccion_ga4, comentarios)
+☐ Identificar top 3 grupos por 'interaccion' y duplicar esfuerzo ahí
+☐ Si un grupo da 0 interacciones en 48h → no repitas

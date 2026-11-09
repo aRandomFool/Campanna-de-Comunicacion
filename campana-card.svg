@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <!-- Fondo -->
+  <rect width="1200" height="630" fill="#FAF7F2"/>
+  
+  <!-- Barra superior -->
+  <rect x="0" y="0" width="1200" height="8" fill="#C0392B"/>
+  
+  <!-- Área principal -->
+  <g transform="translate(80, 60)">
+    <!-- Etiqueta categoría -->
+    <text x="0" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="600" fill="#6B7280" letter-spacing="0.1em" text-transform="uppercase">Ciencia de Datos · Universidad de La Habana · 2026</text>
+    
+    <!-- Título principal -->
+    <text x="0" y="56" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#111827" line-height="1.15">Mercado Automotriz de La Habana</text>
+    <text x="0" y="108" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="400" fill="#374151">Datos reales. Sin opiniones. Gratis.</text>
+    
+    <!-- Línea divisoria -->
+    <line x1="0" y1="140" x2="400" y2="140" stroke="#C0392B" stroke-width="3" stroke-linecap="round"/>
+    
+    <!-- Tres cifras clave -->
+    <g transform="translate(0, 170)">
+      <!-- Tarjeta 1: Brecha -->
+      <rect x="0" y="0" width="320" height="140" rx="12" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="20" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#6B7280" letter-spacing="0.05em" text-transform="uppercase">Brecha formal vs informal</text>
+      <text x="20" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="800" fill="#C0392B">10.699 USD</text>
+      <text x="20" y="122" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#9CA3AF">Mediana informal 22.000 · formal 32.699</text>
+      
+      <!-- Tarjeta 2: Sin año -->
+      <rect x="350" y="0" width="320" height="140" rx="12" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="370" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#6B7280" letter-spacing="0.05em" text-transform="uppercase">Anuncios sin año declarado</text>
+      <text x="370" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="800" fill="#1F2937">48,9 %</text>
+      <text x="370" y="122" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#9CA3AF">1.745 de 3.566 no lo declaran</text>
+      
+      <!-- Tarjeta 3: Mantenimiento -->
+      <rect x="700" y="0" width="320" height="140" rx="12" fill="white" stroke="#E5E7EB" stroke-width="1"/>
+      <text x="720" y="40" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#6B7280" letter-spacing="0.05em" text-transform="uppercase">Mantenimiento real al año</text>
+      <text x="720" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="40" font-weight="800" fill="#1F2937">200 – 3.000 USD</text>
+      <text x="720" y="122" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#9CA3AF">30 entrevistas a propietarios</text>
+    </g>
+    
+    <!-- Qué hay en la web -->
+    <g transform="translate(0, 340)">
+      <text x="0" y="0" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#111827">En la web interactiva encuentras:</text>
+      
+      <g transform="translate(0, 35)">
+        <!-- Item 1 -->
+        <circle cx="14" cy="8" r="5" fill="#C0392B"/>
+        <text x="28" y="13" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#374151">Calculadora: «¿Qué alcanza con mi presupuesto?»</text>
+        
+        <!-- Item 2 -->
+        <circle cx="14" cy="43" r="5" fill="#C0392B"/>
+        <text x="28" y="48" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#374151">Compara precios por marca y municipio</text>
+        
+        <!-- Item 3 -->
+        <circle cx="14" cy="78" r="5" fill="#C0392B"/>
+        <text x="28" y="83" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#374151">Checklist 6 preguntas antes de comprar</text>
+        
+        <!-- Item 4 -->
+        <circle cx="14" cy="113" r="5" fill="#C0392B"/>
+        <text x="28" y="118" font-family="system-ui, -apple-system, sans-serif" font-size="15" fill="#374151">Catálogo formal: 83 modelos, 4 entidades</text>
+      </g>
+    </g>
+    
+    <!-- Footer con URL y QR placeholder -->
+    <g transform="translate(0, 520)">
+      <rect x="0" y="0" width="1040" height="50" rx="8" fill="#111827"/>
+      <text x="30" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500" fill="white">arandomfool.github.io/ICD-Mercado-Automotriz</text>
+      
+      <!-- QR placeholder -->
+      <rect x="950" y="5" width="40" height="40" rx="6" fill="#374151" stroke="#4B5563" stroke-width="1"/>
+      <text x="970" y="32" font-family="system-ui, -apple-system, sans-serif" font-size="9" fill="#9CA3AF" text-anchor="middle">QR</text>
+    </g>
+  </g>
+  
+  <!-- Marca de agua esquina -->
+  <text x="1150" y="615" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#D1D5DB" text-anchor="end">Proyecto UH · Gratis · Sin cookies</text>
+</svg>
